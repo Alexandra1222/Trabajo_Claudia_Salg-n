@@ -12,6 +12,14 @@ body {
   background-color: #f367e7;
   padding: 50px;
 }
+#contacto{
+  background-color: #810736;
+  padding: 50px;
+}
+#sobre-mi{
+  background-color: #ff0062;
+  padding: 50px;
+}
 
 #inicio h2 {
   font-size: 36px;
